@@ -5,11 +5,14 @@
              Title="NewPage1">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Page 2"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
-        <Button BackgroundColor="Blue"
+        <Button BackgroundColor="White"
+                BorderColor="Black"
+                BorderWidth="2"
+                Text="Click me. Next page =>"
                 Clicked="Button_Clicked"/>
     </VerticalStackLayout>
 </ContentPage>
