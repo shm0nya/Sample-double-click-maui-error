@@ -13,6 +13,7 @@
                 BorderColor="Black"
                 BorderWidth="2"
                 Text="Click me. Next page =>"
+                TextColor="Black"
                 Clicked="Button_Clicked"/>
     </VerticalStackLayout>
 </ContentPage>

@@ -8,5 +8,9 @@
             Text="Page 3"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+
+        <Label Text="Now quickly double-click the back button"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
     </VerticalStackLayout>
 </ContentPage>
